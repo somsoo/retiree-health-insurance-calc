@@ -435,9 +435,9 @@
     document.getElementById('property-tax-base').addEventListener('input', formatInputComma);
 
     function runCalculation() {
-      const pensionMonthly = cleanNum(document.getElementById('pension-monthly').value);
-      const interestAnnual = cleanNum(document.getElementById('interest-annual').value);
-      const propertyVal = cleanNum(document.getElementById('property-tax-base').value);
+      const pensionMonthly = cleanNum(document.getElementById('pension-monthly')?.value);
+      const interestAnnual = cleanNum(document.getElementById('interest-annual')?.value);
+      const propertyVal = cleanNum(document.getElementById('property-tax-base')?.value);
       const hasBiz = document.getElementById('has-biz-reg').checked;
 
       const annualPension = pensionMonthly * 12;
@@ -509,9 +509,9 @@
 
     document.getElementById('calc-btn').addEventListener('click', runCalculation);
     document.getElementById('reset-btn').addEventListener('click', function() {
-      document.getElementById('pension-monthly').value = '1,800,000';
-      document.getElementById('interest-annual').value = '0';
-      document.getElementById('property-tax-base').value = '800,000,000';
+      { const _el = document.getElementById('pension-monthly'); if (_el) _el.value = '1,800,000'; }
+      { const _el = document.getElementById('interest-annual'); if (_el) _el.value = '0'; }
+      { const _el = document.getElementById('property-tax-base'); if (_el) _el.value = '800,000,000'; }
       document.getElementById('has-biz-reg').checked = false;
       runCalculation();
     });
