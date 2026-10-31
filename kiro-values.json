@@ -1,0 +1,28 @@
+{
+ "app": "retiree-health-insurance-calc",
+ "host": "retiree-health-insurance-calc.enjoy-onepage.com",
+ "watch": false,
+ "status": "unverified",
+ "checked": "",
+ "soft_days": 60,
+ "hard_days": 120,
+ "grace_days": 31,
+ "hide": [],
+ "pages": [
+  "guide-fin-income-20m.html",
+  "guide-property-deduction.html",
+  "guide-voluntary-36m.html",
+  "guide-vs-dependent.html",
+  "index.html",
+  "pension-160-keep.html",
+  "pension-250-local.html",
+  "prop-1000m-retire.html",
+  "prop-1500m-retire.html",
+  "prop-500m-retire.html",
+  "prop-800m-retire.html"
+ ],
+ "values": {},
+ "sources": {},
+ "valid_until": "2026-12-31",
+ "note": "이 페이지의 보험료율과 기준 금액은 2026년 기준"
+}
