@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>은퇴자 건강보험료 폭탄 방어 &amp; 임의계속가입 계산기</title>
+  <title>은퇴자 건강보험료 계산기 | 지역건보료·피부양자·임의계속가입</title>
   <link>https://retiree-health-insurance-calc.enjoy-onepage.com/</link>
-  <description>퇴직 후 지역가입자 건강보험료 폭탄 대비: 임의계속가입 36개월 특례 절감액과 자녀 피부양자 등재 자격을 즉시 판정합니다.</description>
+  <description>퇴직 후 피부양자가 될 수 있는지와 지역가입자가 되면 낼 월 건강보험료를 2026년 법령 기준으로 계산합니다. 임의계속가입 신청 조건과 기한도 정리했습니다.</description>
   <language>ko-kr</language>
   <atom:link href="https://retiree-health-insurance-calc.enjoy-onepage.com/rss.xml" rel="self" type="application/rss+xml" />
-  <lastBuildDate>Mon, 26 Oct 2026 11:10:39 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 22:00:00 +0900</lastBuildDate>
   <item>
-    <title>건강보험 임의계속가입 36개월 계산기 | 신청기한·절감액</title>
+    <title>건강보험 임의계속가입 36개월 | 신청 조건·기한·보험료</title>
     <link>https://retiree-health-insurance-calc.enjoy-onepage.com/guide-voluntary-36m.html</link>
     <guid isPermaLink="true">https://retiree-health-insurance-calc.enjoy-onepage.com/guide-voluntary-36m.html</guid>
-    <description>국민건강보험법 제110조에 따라 퇴직 후 최대 36개월간 이전 직장건보료 수준을 유지하는 계산기입니다.</description>
+    <description>퇴직 후 임의계속가입을 신청할 수 있는 조건과 기한, 보험료 계산 방식을 법령으로 정리하고, 비교할 지역건보료를 계산합니다.</description>
     <pubDate>Mon, 26 Oct 2026 11:10:39 +0900</pubDate>
   </item>
   <item>
@@ -32,7 +32,7 @@
     <title>퇴직 후 피부양자 등재 vs 임의계속가입 vs 지역가입 비교</title>
     <link>https://retiree-health-insurance-calc.enjoy-onepage.com/guide-vs-dependent.html</link>
     <guid isPermaLink="true">https://retiree-health-insurance-calc.enjoy-onepage.com/guide-vs-dependent.html</guid>
-    <description>은퇴 직후 자녀 직장 피부양자 등재, 임의계속가입(36개월), 지역가입 전환 중 유리한 선택을 비교합니다.</description>
+    <description>은퇴 직후 자녀 직장 피부양자 등재, 임의계속가입(36개월), 지역가입 전환의 조건을 법령으로 비교하고 지역건보료를 계산합니다.</description>
     <pubDate>Mon, 26 Oct 2026 11:10:39 +0900</pubDate>
   </item>
   <item>
